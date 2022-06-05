@@ -24,7 +24,6 @@ function sumTwoSmallestNumbers(numbers) {
   return numbers[0] + numbers[1];
 }
 ```
-## Experience
 ## Education
 * Pavlodar State University, BSc Economics and Management
 ## English
