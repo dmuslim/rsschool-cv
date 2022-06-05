@@ -26,6 +26,6 @@ function sumTwoSmallestNumbers(numbers) {
 ```
 ## Experience
 ## Education
-* Pavlodar State University
+* Pavlodar State University, BSc Economics and Management
 ## English
-Fluent
+IELTS 6.5
