@@ -1,9 +1,9 @@
-# Darkhan Issin
+# D I
 ***************
 ## Contacts
 * Location: Nur-Sultan, Kazakhstan
-* Phone: + 7 (701) 749-10-00
-* Email: darkhan.issin@gmail.com
+* Phone: + 7 (777) 333-22-22
+* Email: d.i@gmail.com
 * GitHub: dmuslim
 ## About me
 I am a good teamplayer who can also work independently
